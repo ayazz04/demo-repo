@@ -21,3 +21,8 @@ if password == 2684:
     print('welcome to the system')
 else: print('incorrect password')
 
+if_she_loves_me= input('do you love me? (yes/no)')
+
+if if_she_loves_me =='yes':
+    print('take care of my heart')
+else: print('i will still love you forever')
